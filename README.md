@@ -1,9 +1,7 @@
 # AWS-Redshift
 Core concept: \
 	Cluster \
-	Node: \
-		Leader node \
-		Compute nodes \
+	Node: Leader node, Compute nodes \
 	Storage \
-	Node slices \ 
+	Node slices \
 	Database \
