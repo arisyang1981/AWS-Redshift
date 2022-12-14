@@ -4,4 +4,4 @@ Core concept: \
 	Node: Leader node, Compute nodes \
 	Storage \
 	Node slices \
-	Database \
+	Database 
