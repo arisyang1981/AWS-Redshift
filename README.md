@@ -16,3 +16,8 @@ https://learn.acloud.guru/course/aws-certified-big-data-specialty/learn/e576d80a
 # Workload management
 Manage and limit user's resource. \
 https://learn.acloud.guru/course/aws-certified-big-data-specialty/learn/e576d80a-0495-4a08-fa97-b539da26fd79/5775675e-62c5-ecaa-3b5c-0e0050fcebd9/watch 
+
+# Load data into Redshift
+Can load data into Redshift from s3/Dynamodb/emr using copy command. \
+https://learn.acloud.guru/course/aws-certified-big-data-specialty/learn/e576d80a-0495-4a08-fa97-b539da26fd79/42a18bc8-bb0e-36e2-f160-098ac82714ec/watch 
+
