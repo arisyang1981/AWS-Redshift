@@ -21,6 +21,11 @@ https://learn.acloud.guru/course/aws-certified-big-data-specialty/learn/e576d80a
 Can load data into Redshift from s3/Dynamodb/emr using copy command. \
 https://learn.acloud.guru/course/aws-certified-big-data-specialty/learn/e576d80a-0495-4a08-fa97-b539da26fd79/42a18bc8-bb0e-36e2-f160-098ac82714ec/watch 
 
+# Query external data 
+https://docs.aws.amazon.com/redshift/latest/gsg/data-querying.html \
+Use Amazon Redshift Spectrum to query data in Amazon S3 files without having to load the data into Amazon Redshift tables. \
+
+
 
 # Security
 # Audit
