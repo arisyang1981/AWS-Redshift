@@ -24,6 +24,8 @@ https://learn.acloud.guru/course/aws-certified-big-data-specialty/learn/e576d80a
 # Query external data 
 https://docs.aws.amazon.com/redshift/latest/gsg/data-querying.html \
 Use Amazon Redshift Spectrum to query data in Amazon S3 files without having to load the data into Amazon Redshift tables. \
+Federated query from other database: \
+https://docs.aws.amazon.com/redshift/latest/dg/federated_query_example.html \
 
 
 
