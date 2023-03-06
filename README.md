@@ -21,3 +21,10 @@ https://learn.acloud.guru/course/aws-certified-big-data-specialty/learn/e576d80a
 Can load data into Redshift from s3/Dynamodb/emr using copy command. \
 https://learn.acloud.guru/course/aws-certified-big-data-specialty/learn/e576d80a-0495-4a08-fa97-b539da26fd79/42a18bc8-bb0e-36e2-f160-098ac82714ec/watch 
 
+
+# Security
+# Audit
+https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html \
+Disable by default. \
+Always and default store in S3, optional, can review in CloudWatch. \
+Three types of events: connection, user log(changes to database user), user activity log. \
