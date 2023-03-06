@@ -26,6 +26,6 @@ https://learn.acloud.guru/course/aws-certified-big-data-specialty/learn/e576d80a
 # Audit
 https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html \
 Disable by default. \
-Always and default store in S3, optional, can review in CloudWatch. \
+Stores: system tables --> S3 --> CloudWatch, based on configure. 
 Three types of events: connection, user log(changes to database user), user activity log. In default, connection and user 
 are enabled when audit on. To enable user activity, change the parameter enable_user_activity_logging.
